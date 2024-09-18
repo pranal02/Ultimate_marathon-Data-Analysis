@@ -7,3 +7,15 @@ To focus on recent trends and a specific geographic region,
 
 the analysis is restricted to the United States and races of 50 kilometers and 50 miles, year 2020.
 
+Analysis:
+
+Trends over time: Analyzing changes in race participation, completion rates, and winning times.
+
+Geographic variations: Comparing race statistics across different US regions.
+
+Gender differences: Examining performance disparities between male and female runners.
+
+Age-related trends: Investigating how running performance changes with age. and Other relevant analyses.
+
+
+
