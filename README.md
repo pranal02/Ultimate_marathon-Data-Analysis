@@ -25,8 +25,10 @@ Visualization: Python libraries like Matplotlib and Seaborn.
 
 To reproduce the analysis or explore the data further:
 
-Clone the repository: git clone []
-Install dependencies like Pandas , Numpy , Matplotlib, Seaborn 
+Clone the repository: git clone [https://github.com/pranal02/Ultimate_marathon-Data-Analysis.git]
+
+Install dependencies like Pandas, Numpy, Matplotlib, Seaborn 
+
 Run analysis scripts: Execute the scripts in the analysis directory.
 
 
