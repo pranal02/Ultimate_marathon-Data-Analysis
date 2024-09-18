@@ -17,5 +17,18 @@ Gender differences: Examining performance disparities between male and female ru
 
 Age-related trends: Investigating how running performance changes with age. and Other relevant analyses.
 
+Tools and Techniques:
+
+Data cleaning: Python libraries like Pandas and NumPy.
+
+Visualization: Python libraries like Matplotlib and Seaborn.
+
+To reproduce the analysis or explore the data further:
+
+Clone the repository: git clone []
+Install dependencies like Pandas , Numpy , Matplotlib, Seaborn 
+Run analysis scripts: Execute the scripts in the analysis directory.
+
+
 
 
